@@ -8,22 +8,22 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a **Zurich-based Interaction Engineer** passionate about creating beautiful,
 sustainable digital experiences. My journey spans from garden design to web
 development, always guided by three core principles:
 
-- 🌱 **Sustainability** - Passionate about having a positive impact on the
+- **Sustainability** - Passionate about having a positive impact on the
   planet
-- 🔄 **Systems Thinking** - Understanding the interconnectedness of different
+- **Systems Thinking** - Understanding the interconnectedness of different
   disciplines
-- 📚 **Continuous Learning** - Constantly acquiring new skills and applying them
+- **Continuous Learning** - Constantly acquiring new skills and applying them
   to real-world projects
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lloydrichards&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -32,7 +32,7 @@ development, always guided by three core principles:
 
 ---
 
-## 📚 Repository Organization
+## Repository Organization
 
 I use a systematic naming convention to organize my repositories, making them
 easy to discover and categorize:
@@ -51,18 +51,18 @@ hosted applications, and evolving long-term work like
 
 ---
 
-## 🍏 Learn More
+## Learn More
 
-- 📝 **Projects:** [lloydrichards.dev/blog](https://lloydrichards.dev/projects)
-- 🧪 **Experiments:** [lloydrichards.dev/labs](https://lloydrichards.dev/labs)
-- 📅 **Journey:**
+- **Projects:** [lloydrichards.dev/blog](https://lloydrichards.dev/projects)
+- **Experiments:** [lloydrichards.dev/labs](https://lloydrichards.dev/labs)
+- **Journey:**
   [lloydrichards.dev/timeline](https://lloydrichards.dev/timeline)
-- 🔗 **RSS Feed:**
+- **RSS Feed:**
   [lloydrichards.dev/api/rss](https://lloydrichards.dev/api/rss)
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 <div align="center">
 
