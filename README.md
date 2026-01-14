@@ -21,14 +21,14 @@ development, always guided by three core principles:
 - **Continuous Learning** - Constantly acquiring new skills and applying them
   to real-world projects
 
----
+<!-- ---
 
 ## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lloydrichards&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydrichards&layout=compact&langs_count=6&theme=tokyonight&hide=c,c%2B%2B,assembly,cmake"/>
-</div>
+</div> -->
 
 ---
 
